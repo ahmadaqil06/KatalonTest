@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Jasa Pipa Mampet  Instalasi Pipa</name>
+   <tag></tag>
+   <elementGuidId>16297793-47ce-4d71-8bdb-47179d9b36a7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#nav-menu-item-3177 > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='nav-menu-item-3177']/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>1b1566bd-ce3a-4376-8f99-7767a1be813e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://kanggo.id/layanan-kanggo/layanan-perpipaan/</value>
+      <webElementGuid>b61c444e-c42d-4aa8-b778-3a59f83ee9b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Jasa Pipa Mampet &amp; Instalasi Pipa</value>
+      <webElementGuid>b5cc7e27-a344-4367-965c-a4081c883bce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nav-menu-item-3177&quot;)/a[1]</value>
+      <webElementGuid>c0f3bc9e-0a86-4ac2-9905-bcf7566f7f57</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='nav-menu-item-3177']/a</value>
+      <webElementGuid>bc235aa7-d29e-4896-b4a4-bac631d2d8d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Jasa Pipa Mampet &amp; Instalasi Pipa')]</value>
+      <webElementGuid>b290f93c-b8ec-469c-afdd-28623e95e411</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Layanan'])[1]/following::a[1]</value>
+      <webElementGuid>17dfea13-420e-4468-bdb7-b0fb5e905d52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tentang Kami'])[1]/following::a[2]</value>
+      <webElementGuid>c78f5fd6-ecc2-4a9c-b1ef-87e495055244</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jasa Pasang Plafon Gypsum'])[1]/preceding::a[1]</value>
+      <webElementGuid>2bbaba66-806e-45bc-bedb-8e8f59d9304b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jasa Pasang Pintu &amp; Perbaikan'])[1]/preceding::a[2]</value>
+      <webElementGuid>931bc60f-3d5d-48ae-985f-267698a6d92e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Jasa Pipa Mampet &amp; Instalasi Pipa']/parent::*</value>
+      <webElementGuid>720b897c-b4c3-4cc8-b768-e17e72f1b66e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://kanggo.id/layanan-kanggo/layanan-perpipaan/')]</value>
+      <webElementGuid>38d7804a-f78d-4a87-b6c8-eef2280bb856</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div/div/ul/li/a</value>
+      <webElementGuid>0a52626d-012a-4c5b-8543-e95fa4f725f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://kanggo.id/layanan-kanggo/layanan-perpipaan/' and (text() = 'Jasa Pipa Mampet &amp; Instalasi Pipa' or . = 'Jasa Pipa Mampet &amp; Instalasi Pipa')]</value>
+      <webElementGuid>41341fb9-b7ee-4a93-ad97-f7d181d25c2f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

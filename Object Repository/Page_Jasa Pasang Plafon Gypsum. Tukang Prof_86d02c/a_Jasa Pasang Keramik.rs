@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Jasa Pasang Keramik</name>
+   <tag></tag>
+   <elementGuidId>eed75808-1ab5-4903-b498-50f6db434389</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#nav-menu-item-3181 > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='nav-menu-item-3181']/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>37cec8a9-ada4-4721-8df9-5e0bb79b08e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://kanggo.id/layanan-kanggo/layanan-perbaikan-keramik/</value>
+      <webElementGuid>1d639105-d20b-4a6c-a315-823f229f8a06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Jasa Pasang Keramik</value>
+      <webElementGuid>9412230c-09a9-4c3e-adef-a2ceb9aee922</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nav-menu-item-3181&quot;)/a[1]</value>
+      <webElementGuid>1b519c8b-06f1-4d91-b60d-1106964e8fd6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='nav-menu-item-3181']/a</value>
+      <webElementGuid>362fda8c-c69a-4596-a1a7-d199660ed625</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Jasa Pasang Keramik')]</value>
+      <webElementGuid>5800e5c4-435b-4992-acff-68ac5983ddf1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jasa Pasang Pintu &amp; Perbaikan'])[1]/following::a[1]</value>
+      <webElementGuid>abe1a7da-0bca-4620-a973-41f220524a7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jasa Pasang Plafon Gypsum'])[1]/following::a[2]</value>
+      <webElementGuid>b2ccf835-c9f7-4466-9c45-53811371d1e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jasa Renovasi Kamar Mandi &amp; Perbaikan Menyeluruh'])[1]/preceding::a[1]</value>
+      <webElementGuid>496c2cdb-07a7-4cb1-80ca-fe6784c35a2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jasa Perbaikan Tembok Dinding'])[1]/preceding::a[2]</value>
+      <webElementGuid>163987df-1fdf-4fc9-a2cf-deb01bc8bdde</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Jasa Pasang Keramik']/parent::*</value>
+      <webElementGuid>cb8bfd08-8c2e-4172-8f79-cbe293fed40f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://kanggo.id/layanan-kanggo/layanan-perbaikan-keramik/')]</value>
+      <webElementGuid>2fa9b6d1-bd87-4517-8dde-e7439f326e57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div/div/ul/li[4]/a</value>
+      <webElementGuid>c239e435-b559-4c37-a91f-720191fc607f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://kanggo.id/layanan-kanggo/layanan-perbaikan-keramik/' and (text() = 'Jasa Pasang Keramik' or . = 'Jasa Pasang Keramik')]</value>
+      <webElementGuid>65a50e59-b42b-486a-b475-3a8a818b63ea</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

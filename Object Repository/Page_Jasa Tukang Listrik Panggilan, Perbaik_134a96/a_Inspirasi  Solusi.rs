@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Inspirasi  Solusi</name>
+   <tag></tag>
+   <elementGuidId>364b408e-d0f2-4a72-af9f-8e257849a9b8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#nav-menu-item-3187 > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='nav-menu-item-3187']/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>67a7998d-84bc-4e77-b3d0-a40201dbdf3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://kanggo.id/blog/</value>
+      <webElementGuid>fe7ee3e2-779a-4652-adce-b14cf19bd2d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Inspirasi &amp; Solusi</value>
+      <webElementGuid>143d7b3d-baea-43c8-a57f-f1af8a08437a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nav-menu-item-3187&quot;)/a[1]</value>
+      <webElementGuid>f6fb94fc-7dd4-4b96-92fa-74f71b33f310</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='nav-menu-item-3187']/a</value>
+      <webElementGuid>f0c72d47-73eb-4540-8cf8-3513f33e4cef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Inspirasi &amp; Solusi')]</value>
+      <webElementGuid>85c96ca9-4020-4daf-8298-1ce8ecb05769</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar Harga'])[1]/following::a[1]</value>
+      <webElementGuid>b62ed814-f990-47f8-abfe-a680fd12466f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jasa Angkat Barang Berat'])[1]/following::a[2]</value>
+      <webElementGuid>6df09346-967d-452c-b681-80cc3a285331</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pusat Bantuan'])[1]/preceding::a[1]</value>
+      <webElementGuid>be018eed-6bbe-4187-b287-154937c2fb0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gabung Mitra'])[1]/preceding::a[2]</value>
+      <webElementGuid>2e087082-7485-4799-b3e5-b08217241227</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Inspirasi &amp; Solusi']/parent::*</value>
+      <webElementGuid>4360e200-f545-462c-9a17-8f811b38bc4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://kanggo.id/blog/')]</value>
+      <webElementGuid>cadafddd-a6df-4817-82e7-d408db528b35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/a</value>
+      <webElementGuid>3dd68987-6c17-4a5d-9347-ed4d1f6d95f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://kanggo.id/blog/' and (text() = 'Inspirasi &amp; Solusi' or . = 'Inspirasi &amp; Solusi')]</value>
+      <webElementGuid>629fd22a-8756-4929-9d9c-7bcd5cde499f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

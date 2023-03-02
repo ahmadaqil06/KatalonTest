@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Tukang Listrik Panggilan</name>
+   <tag></tag>
+   <elementGuidId>8e538039-c88b-48e4-b773-dc3843332927</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#nav-menu-item-3180 > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='nav-menu-item-3180']/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>251e5834-6dab-4d0d-b542-ce4e905acdce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://kanggo.id/layanan-kanggo/layanan-perbaikan-kelistrikan/</value>
+      <webElementGuid>838bee93-79c4-498e-9f80-7d0ab4617837</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tukang Listrik Panggilan</value>
+      <webElementGuid>2c326fe4-e3dd-467a-aec2-1e8352373341</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nav-menu-item-3180&quot;)/a[1]</value>
+      <webElementGuid>e65c8b2c-db7e-4e34-af47-4407b73dba8d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='nav-menu-item-3180']/a</value>
+      <webElementGuid>a90524e2-18af-450f-b11d-0641613cd0e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Tukang Listrik Panggilan')]</value>
+      <webElementGuid>c5dc20e9-65b4-4426-8048-7aab3e6a9eb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jasa Perbaikan Tembok Dinding'])[1]/following::a[1]</value>
+      <webElementGuid>6e2d606e-6e39-40e3-aae0-75d8bd205ad9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jasa Renovasi Kamar Mandi &amp; Perbaikan Menyeluruh'])[1]/following::a[2]</value>
+      <webElementGuid>eea80a02-1e28-4257-9fb6-878122258242</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jasa Pengecatan Rumah'])[1]/preceding::a[1]</value>
+      <webElementGuid>c5cd6f1c-d752-4576-90c6-3941d9b6566b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jasa Perbaikan Dapur Menyeluruh'])[1]/preceding::a[2]</value>
+      <webElementGuid>402f428f-4114-442f-9f4e-9abd7ed61ca3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tukang Listrik Panggilan']/parent::*</value>
+      <webElementGuid>bf62effd-031f-4d17-b3d3-d98f95fe3699</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://kanggo.id/layanan-kanggo/layanan-perbaikan-kelistrikan/')]</value>
+      <webElementGuid>0421213c-bcd8-4259-a035-75c69467b750</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[7]/a</value>
+      <webElementGuid>4aee5564-5051-483d-9e4b-72b84ce4d445</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://kanggo.id/layanan-kanggo/layanan-perbaikan-kelistrikan/' and (text() = 'Tukang Listrik Panggilan' or . = 'Tukang Listrik Panggilan')]</value>
+      <webElementGuid>c2368a79-1a80-45f0-8d33-b5ef7d45b693</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

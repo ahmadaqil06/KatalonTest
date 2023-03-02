@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Copyright 2022. All Rights Reserved_joi_fc6002</name>
+   <tag></tag>
+   <elementGuidId>6aa8a39b-08e4-4954-902d-bffcc2010241</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.joinchat__button__open</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[3]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0dba40fe-6c8c-47f6-9765-236fe62fc494</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>joinchat__button__open</value>
+      <webElementGuid>4464c8b3-82c8-4b3d-bd04-1ffe0ef9044d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;js_active vc_desktop vc_transform vc_transform js no-touch csstransforms3d csstransitions webkit chrome win js wf-opensans-n2-active wf-opensans-n3-active wf-opensans-n4-active wf-opensans-n7-active wf-opensans-n8-active wf-opensans-n6-active wf-shadowsintolight-n2-active wf-shadowsintolight-n3-active wf-shadowsintolight-n4-active wf-shadowsintolight-n7-active wf-shadowsintolight-n8-active wf-shadowsintolight-n6-active wf-playfairdisplay-n2-active wf-playfairdisplay-n3-active wf-playfairdisplay-n4-active wf-playfairdisplay-n7-active wf-playfairdisplay-n8-active wf-playfairdisplay-n6-active wf-active&quot;]/body[@class=&quot;page-template-default page page-id-182 wp-embed-responsive full blog-1 dark theme-porto woocommerce-js login-popup wpb-js-composer js-comp-ver-6.6.0 vc_responsive&quot;]/div[@class=&quot;joinchat joinchat--right joinchat--btn joinchat--show joinchat--tooltip&quot;]/div[@class=&quot;joinchat__button&quot;]/div[@class=&quot;joinchat__button__open&quot;]</value>
+      <webElementGuid>7cfe04e6-885d-4a0c-b5af-9e193cecc543</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div</value>
+      <webElementGuid>57434121-a1a8-41a8-8ac7-3c3b9fdc2968</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>API</name>
+   <name>Kanggo UI Test</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,5 +10,5 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>e75e8c94-61ad-45d0-a9c7-67ead1a4bddb</testSuiteGuid>
+   <testSuiteGuid>35785e2d-fc42-44ee-baf5-57346b5f6fc7</testSuiteGuid>
 </TestSuiteEntity>

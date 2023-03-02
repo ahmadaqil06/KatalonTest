@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Pesan Sekarang</name>
+   <tag></tag>
+   <elementGuidId>91609277-3e0e-4f65-9011-71ee4c603d8f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.vc_general.vc_btn3.vc_btn3-size-md.vc_btn3-shape-default.vc_btn3-style-classic.vc_btn3-color-danger.btn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/article/div/div/div/div/div/div/div[2]/div[4]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>261c9f07-a929-4d98-bcc1-9b7eb26471dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vc_general vc_btn3 vc_btn3-size-md vc_btn3-shape-default vc_btn3-style-classic vc_btn3-color-danger btn</value>
+      <webElementGuid>55d471a4-97d6-4858-a9d0-ebb5f853b7e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://play.google.com/store/apps/details?id=id.kanggo.kanggo</value>
+      <webElementGuid>5410b69d-76d7-4981-baeb-d6ce12900524</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>548b358b-222b-42d1-b61a-0b6f4320caa8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pesan Sekarang</value>
+      <webElementGuid>7cc84927-0ed5-4e2d-815f-5ff30ed7d4f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/article[@class=&quot;post-605 page type-page status-publish hentry&quot;]/div[@class=&quot;page-content&quot;]/div[@class=&quot;vc_row wpb_row row&quot;]/div[@class=&quot;vc_column_container col-md-12&quot;]/div[@class=&quot;wpb_wrapper vc_column-inner&quot;]/div[@class=&quot;porto-feature-box wpb_content_element&quot;]/div[@class=&quot;feature-box feature-box-style-2&quot;]/div[@class=&quot;feature-box-info&quot;]/div[@class=&quot;vc_btn3-container vc_btn3-right&quot;]/a[@class=&quot;vc_general vc_btn3 vc_btn3-size-md vc_btn3-shape-default vc_btn3-style-classic vc_btn3-color-danger btn&quot;]</value>
+      <webElementGuid>5579227d-6437-49b9-83a7-05506b62952a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/article/div/div/div/div/div/div/div[2]/div[4]/a</value>
+      <webElementGuid>a38b057d-2188-412e-bad2-78357426a259</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Pesan Sekarang')]</value>
+      <webElementGuid>c4e8da01-0320-43b1-abb7-1de118cfb4de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dll'])[1]/following::a[1]</value>
+      <webElementGuid>0c241e05-b435-4ee8-b530-993a929a26f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pasang titik lampu, saklar, stop kontak baru'])[1]/following::a[1]</value>
+      <webElementGuid>d1e4dab6-81b9-4726-9cce-504a59e8a2e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Office Hours'])[1]/preceding::a[1]</value>
+      <webElementGuid>1a71b42c-7b25-4715-8fe6-b7fb4ee656b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mon-Sun'])[1]/preceding::a[1]</value>
+      <webElementGuid>00979050-28bd-4546-863c-ba3eea3a0d34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pesan Sekarang']/parent::*</value>
+      <webElementGuid>f8d5e857-a743-4369-b5b4-d706ab191f05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://play.google.com/store/apps/details?id=id.kanggo.kanggo')]</value>
+      <webElementGuid>5640694c-e9b8-445b-8d45-70ad59b15c6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/a</value>
+      <webElementGuid>2926a98a-5eed-411c-ab27-e484ec9cb12e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://play.google.com/store/apps/details?id=id.kanggo.kanggo' and (text() = 'Pesan Sekarang' or . = 'Pesan Sekarang')]</value>
+      <webElementGuid>add5ae6f-cc2d-4fd5-8f7f-819aaeca9bb0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
